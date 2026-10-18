@@ -18,3 +18,7 @@ npx serve .
 ```
 
 p5.js is loaded from a CDN, so an internet connection is required on first load.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
